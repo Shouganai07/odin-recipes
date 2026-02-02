@@ -1,2 +1,3 @@
-# odin-recipes
-Assignment on HTML Foundations
+# The Odin Project | Recipes Assignment
+
+A site that lists some of my favorite recipes!
